@@ -8,7 +8,7 @@
 
     <parent>
         <artifactId>masotool-parent</artifactId>
-        <groupId>io.github.maso.opensource</groupId>
+        <groupId>io.github.maso-os</groupId>
         <version>0.1.0</version>
     </parent>
 

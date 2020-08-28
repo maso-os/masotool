@@ -12,7 +12,7 @@ Masotool = March April September October 的首字母 + tool，它是一个轻�
 
 ```xml
 <dependency>
-    <groupId>io.github.maso.opensource</groupId>
+    <groupId>io.github.maso-os</groupId>
     <artifactId>masotool-all</artifactId>
     <version>0.1.0</version>
 </dependency>
